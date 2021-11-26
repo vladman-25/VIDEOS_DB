@@ -1,0 +1,6 @@
+Starting audit...
+[ERROR] C:\Users\crist\IdeaProjects\oop-asignments\teme\tema\.\src\entities\Database\Database.java:9:14: Using the '.*' form of import should be avoided - fileio.*. [AvoidStarImport]
+[ERROR] C:\Users\crist\IdeaProjects\oop-asignments\teme\tema\.\src\entities\Database\Database.java:274:58: '3' is a magic number. [MagicNumber]
+[ERROR] C:\Users\crist\IdeaProjects\oop-asignments\teme\tema\.\src\entities\videos\Show.java:123:29: 'rating' hides a field. [HiddenField]
+Audit done.
+Checkstyle ends with 3 errors.
