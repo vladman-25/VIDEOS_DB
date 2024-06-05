@@ -6,6 +6,8 @@ November 2021
 # Info
 https://ocw.cs.pub.ro/courses/poo-ca-cd/teme/tema
 
+Created an "IMDB" application that emulates user interaction with a media platform. Implemented database usage, commands, queries, and recommendations using OOP and SOLID principles, including abstraction, encapsulation, and inheritance, Singleton.
+
 # About the code
 
 We provide the input tests, the logic that parses them and the checker that runs them.
